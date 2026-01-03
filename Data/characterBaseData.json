@@ -4303,6 +4303,9 @@
               ],
               "numberMatchesRequired": 1
             }
+          ],
+          "skipIfPresentCharacters": [
+            "MOFFGIDEONS3"
           ]
         }
       ]

@@ -8701,10 +8701,15 @@
         {
           "synergyEnhancement": 5,
           "characters": [
-            "FINN",
-            "POE",
-            "RESISTANCETROOPER",
-            "ROSETICO"
+            "FINN"
+          ],
+          "categoryDefinitions": [
+            {
+              "include": [
+                "Resistance"
+              ],
+              "numberMatchesRequired": 3
+            }
           ]
         }
       ]
